@@ -1,4 +1,4 @@
-    local database = {
+{
         {"jeffismyname4678","yeah i play among us",6879141802},
         {"jeffismyname4678_1","yeah i play among us",6879141802},
         {"jeffismyname4678_2","yeah i play among us",6879141802},
@@ -16,7 +16,4 @@
         {"coi0e","i will troll u lol",6863132400},
         {"yormomaisaguy","<font size='50'><font color='rgb(255,0,0)'>sus</font></font>",6960806146},
         {"JaclayHollman","Santa",6971795976}
-    }
-    
-    
-    return database
+}
