@@ -84,19 +84,9 @@
 		"Santa",
 		6971795976
 	},
-	{"james","abcd"},
 	{
 		"yomomma32412",
 		"hi",
 		827484
-	},
-	{
-		"iuhjjplkpk",
-		"gjrnglkrjglrkgj"
-	},
-	{
-		"John Doe",
-		"abcd",
-		nil
 	}
 }
