@@ -1,4 +1,4 @@
-{
+[
 	{
 		"jeffismyname4678",
 		"yeah i play among us",
@@ -94,4 +94,4 @@
 		"rg,rgrgrgerg",
 		nil
 	}
-}
+]
