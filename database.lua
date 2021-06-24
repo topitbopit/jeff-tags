@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"user": "jeffismyname4678",
 		"desc": "yeah i play among us",
 		"id": 6879141802
@@ -51,7 +50,7 @@
 	},
 	{
 		"user": "boiboiunotgoood",
-		"<font color='rgb(255,0,0)'><b><i>Bob Is Hot?</i></b></font>",
+		"desc": "<font color='rgb(255,0,0)'><b><i>Bob Is Hot?</i></b></font>",
 		"id": 6879702855
 	},
 	{
